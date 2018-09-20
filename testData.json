@@ -1,0 +1,30 @@
+{
+  "telemetry_timestamp":1534198007,
+  "satellite_id":1,
+  "barrels":[
+     {
+        "barrel_id":1,
+        "last_flavor_sensor_result":"woody",
+        "status":"aging",
+        "errors":[
+
+        ]
+     },
+     {
+        "barrel_id":2,
+        "last_flavor_sensor_result":"error",
+        "status":"error",
+        "errors":[
+           "RUD - barrel has exploded"
+        ]
+     },
+     {
+        "barrel_id":3,
+        "last_flavor_sensor_result":"spicy with a hint of radiation",
+        "status":"ready",
+        "errors":[
+
+        ]
+     }
+  ]
+}

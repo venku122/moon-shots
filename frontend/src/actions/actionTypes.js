@@ -1,0 +1,18 @@
+import keyMirror from 'keymirror';
+
+export default keyMirror({
+  UPLOAD_JSON_DATA_ATTEMPTED: null,
+  UPLOAD_JSON_DATA_SUCCESSFUL: null,
+  UPLOAD_JSON_DATA_FAILED: null,
+
+  SOCKET_CONNECTED: null,
+  SOCKET_DISCONNECTED: null,
+  INVALID_MESSAGE: null,
+
+  RECEIVED_INITIAL_SATELLITE_DATA: null,
+  SATELLITE_DATA_UPDATE: null,
+  GET_SATELLITE_DATA_UPDATE: null,
+
+  DEORBIT_SATELLITE: null,
+  DETONATE_SATELLITE: null,
+});

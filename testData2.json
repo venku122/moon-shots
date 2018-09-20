@@ -1,0 +1,109 @@
+{
+  "telemetry_timestamp":1534198007,
+  "satellite_id":1,
+  "barrels":[
+     {
+        "barrel_id":1,
+        "last_flavor_sensor_result":"woody",
+        "status":"aging",
+        "errors":[
+
+        ]
+     },
+     {
+        "barrel_id":2,
+        "last_flavor_sensor_result":"error",
+        "status":"error",
+        "errors":[
+           "RUD - barrel has exploded",
+           "Even Worse things!",
+           "Even Worse things!",
+           "Even Worse things!",
+           "Even Worse things!",
+           "Even Worse things!",
+           "Even Worse things!",
+           "Even Worse things!"
+        ]
+     },
+     {
+        "barrel_id":3,
+        "last_flavor_sensor_result":"spicy with a hint of radiation",
+        "status":"ready",
+        "errors":[
+
+        ]
+     },
+     {
+        "barrel_id":4,
+        "last_flavor_sensor_result":"woody",
+        "status":"aging",
+        "errors":[
+
+        ]
+     },
+     {
+        "barrel_id":5,
+        "last_flavor_sensor_result":"error",
+        "status":"error",
+        "errors":[
+           "RUD - barrel has exploded"
+        ]
+     },
+     {
+        "barrel_id":6,
+        "last_flavor_sensor_result":"spicy with a hint of radiation",
+        "status":"ready",
+        "errors":[
+
+        ]
+     },
+     {
+        "barrel_id":7,
+        "last_flavor_sensor_result":"woody",
+        "status":"aging",
+        "errors":[
+
+        ]
+     },
+     {
+        "barrel_id":8,
+        "last_flavor_sensor_result":"error",
+        "status":"error",
+        "errors":[
+           "RUD - barrel has exploded"
+        ]
+     },
+     {
+        "barrel_id":9,
+        "last_flavor_sensor_result":"spicy with a hint of radiation",
+        "status":"ready",
+        "errors":[
+
+        ]
+     },
+     {
+        "barrel_id":10,
+        "last_flavor_sensor_result":"woody",
+        "status":"aging",
+        "errors":[
+
+        ]
+     },
+     {
+        "barrel_id":11,
+        "last_flavor_sensor_result":"error",
+        "status":"error",
+        "errors":[
+           "RUD - barrel has exploded"
+        ]
+     },
+     {
+        "barrel_id":12,
+        "last_flavor_sensor_result":"spicy with a hint of radiation",
+        "status":"ready",
+        "errors":[
+
+        ]
+     }
+  ]
+}

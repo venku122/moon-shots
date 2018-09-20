@@ -1,0 +1,33 @@
+.satellites-root {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  overflow: hidden;
+}
+
+.satellites-title {
+  color: gray;
+}
+
+.satellites-titleBar {
+  background: linear-gradient(to top, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 70%, rgba(0,0,0,0) 100%);
+}
+
+.satellite-card {
+  min-width: 275px;
+  margin: 50px;
+}
+
+.satellite-card-title {
+  margin-bottom: 16;
+  font-size: 14px;
+}
+
+.satellite-card-pos {
+  margin-bottom: 12px;
+}
+
+.satellite-card-buttons {
+  display: flex;
+  justify-content: space-around;
+}
